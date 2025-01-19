@@ -8,9 +8,9 @@ setup(
     name='pybibx',
     version='4.5.3',
     license='GNU',
-    author='Valdecy Pereira',
-    author_email='valdecy.pereira@gmail.com',
-    url='https://github.com/Valdecy/pybibx',
+    author='Andrew Asante',
+    author_email='andrew.asante.kwasi@gmail.com',
+    url='https://github.com/andypykee/pybibx',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
